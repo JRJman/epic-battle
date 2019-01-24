@@ -13,13 +13,13 @@ Je kunt dan uit twee dingen kiezen:
 - aanvallen
 - search
 
-###### aanvallen
+##### aanvallen
 Als je voor deze actie kiest dan kies je wie je aanvalt en met welk wapen je aanvalt.
 Dan kijkt het programma of je hem wel hebt geraakt of niet.
 Daarna haalt hij er een use vanaf en doet hij damage als je hem hebt geraakt.
 
 
-###### search
+##### search
 Als je voor deze actie kiest ga je op zoek naar een item.\
 De items kunnen zijn:
 - Shilden
